@@ -8,7 +8,7 @@ export const FeedbackProvider = ({children}) => {
         {
           id: 1,
           text: 'Your service is exceptional',
-          rating: 10  
+          rating: 10
         }
     ])
 
